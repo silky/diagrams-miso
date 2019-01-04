@@ -24,15 +24,15 @@ Library
                        Graphics.Rendering.Miso
   Hs-source-dirs:      src
   Build-depends:       aeson
-                     , base                 >= 4.9   && < 4.10
-                     , mtl                  >= 1     && < 2.3
-                     , colour >= 2.3.2 && < 2.4
-                     , diagrams-core        >= 1.4   && < 1.5
-                     , diagrams-lib         >= 1.4   && < 1.5
-                     , monoid-extras        >= 0.3   && < 0.5
-                     , miso                 >= 0.8
-                     , containers           >= 0.3   && < 0.6
-                     , lens                 >= 4.15   && < 4.16
+                     , base
+                     , mtl
+                     , colour
+                     , diagrams-core
+                     , diagrams-lib
+                     , monoid-extras
+                     , miso
+                     , containers
+                     , lens
 
   Ghc-options:         -Wall
 
